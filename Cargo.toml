@@ -1,0 +1,5 @@
+[workspace]
+members = ["contracts/apex_core"]
+
+[workspace.package]
+edition = "2021"
